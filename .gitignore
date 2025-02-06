@@ -1,3 +1,5 @@
 .vs/ 
 /obj 
 /bin 
+/WalletWhoopsConsole/bin
+/WalletWhoopsConsole/obj
